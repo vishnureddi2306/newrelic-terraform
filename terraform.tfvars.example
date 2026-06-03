@@ -1,0 +1,3 @@
+newrelic_account_id = 1234567
+newrelic_api_key    = "NRAK-xxxxxxxxxxxxxxxx"
+newrelic_region     = "US"
